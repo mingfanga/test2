@@ -1,2 +1,3 @@
 this is my first project ,i want to do some test.
-now i have wotre some words at this line.
+now i have wrote some words at this line.
+i have found some words that is wrong , i want to change it.
