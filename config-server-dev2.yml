@@ -1,4 +1,4 @@
-foo:111
+foo: 111
 zuul:
   routes:
     api-a:
