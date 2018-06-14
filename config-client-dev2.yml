@@ -1,1 +1,9 @@
-
+foo: 111
+zuul:
+  routes:
+    api-a:
+      path: /api-a/**
+      service-id: service-ribbon
+    api-b:
+      path: /api-b/**
+      service-id: service-feign
